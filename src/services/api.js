@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE = 'http://localhost:3000/api';
+const API_BASE = ' https://evasion-muck-irritate.ngrok-free.dev';
 
 const api = axios.create({
   baseURL: API_BASE,
