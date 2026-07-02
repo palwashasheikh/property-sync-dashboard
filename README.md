@@ -6,7 +6,7 @@ React-based frontend for viewing real estate listings aggregated from multiple U
 
 ---
 
-![alt text](<Screenshot (9).png>) ![alt text](<Screenshot (5).png>) ![alt text](<Screenshot (6).png>) ![alt text](<Screenshot (7).png>) ![alt text](<Screenshot (8).png>)
+![alt text](<Screenshot (9).png>) ![alt text](<Screenshot (6).png>) ![alt text](<Screenshot (7).png>) ![alt text](<Screenshot (8).png>)
 
 
 ## Quick Start
